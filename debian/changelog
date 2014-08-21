@@ -1,5 +1,8 @@
-shinken-mod-ws-arbiter (1.4.1-1) UNRELEASED; urgency=medium
+shinken-mod-ws-arbiter (1.4.1-1) unstable; urgency=medium
 
   * New upstream version 1.4.1
+  * Add replaces shinken-module-arbiter-ws
+  * Add custom config files
+  * Closes: #745458
 
- -- Thibault Cohen <tcohen@tcohen-pc.mtl.sfl>  Mon, 18 Aug 2014 16:20:12 -0400
+ -- Thibault Cohen <thibault.cohen@savoirfairelinux.com>  Wed, 20 Aug 2014 20:00:38 -0400
