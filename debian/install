@@ -1,3 +1,3 @@
-module/* /usr/share/pyshared/shinken/modules/ws-arbiter
-doc/* /usr/share/doc/shinken-mod-ws-arbiter
-debian/etc/modules/ws_arbiter.cfg /etc/shinken/modules/ws_arbiter.cfg
+module/* usr/share/pyshared/shinken/modules/ws-arbiter
+doc/* usr/share/doc/shinken-mod-ws-arbiter
+etc/modules/* etc/shinken/modules
