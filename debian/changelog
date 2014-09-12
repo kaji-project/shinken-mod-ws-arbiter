@@ -1,8 +1,11 @@
 shinken-mod-ws-arbiter (1.4.1-1) unstable; urgency=medium
 
+  [ Thibault Cohen ]
   * New upstream version 1.4.1
   * Add replaces shinken-module-arbiter-ws
   * Add custom config files
   * Closes: #760256
+  [ Mathieu Parent ]
+  * Architecture: all
 
- -- Thibault Cohen <thibault.cohen@savoirfairelinux.com>  Wed, 20 Aug 2014 20:00:38 -0400
+ -- Mathieu Parent <sathieu@debian.org>  Fri, 12 Sep 2014 06:47:29 +0200
